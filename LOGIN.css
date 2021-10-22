@@ -1,0 +1,8 @@
+img{
+	width: 50%;
+}
+
+body {
+	background: url(sistema-solar.jpg);
+	background-size: cover; 
+}
